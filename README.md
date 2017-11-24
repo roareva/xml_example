@@ -14,3 +14,9 @@ This is an example _of a_ **XML** without **attributes _and_ without** namespace
   <body>Don't forget me this weekend!</body>
 </note>
 ```
+Lista:
+
+  * manzanas
+  * naranjas
+  * peras
+  
