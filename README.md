@@ -26,7 +26,7 @@ Lista:
   - naranjas
   - peras
   
-  Lista: 
-  1. manzanas
-  2. naranjas
-  3. peras
+  Lista enumerada: 
+  1.  manzanas
+  2.  naranjas
+  3.  peras
