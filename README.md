@@ -26,8 +26,8 @@ Lista:
   - naranjas
   - peras
   
-Numbered list:
+Lista enumerada:
 
-  1. apples
-  2. oranges
-  3. pears
+  1. manzanas
+  2. naranjas
+  3. peras
