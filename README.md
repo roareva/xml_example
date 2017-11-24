@@ -20,3 +20,13 @@ Lista:
   * naranjas
   * peras
   
+Lista:
+
+  - manzanas
+  - naranjas
+  - peras
+  
+  Lista: 
+  1. manzanas
+  2. naranjas
+  3. peras
